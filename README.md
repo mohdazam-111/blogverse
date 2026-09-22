@@ -8,7 +8,7 @@ https://blogverse-beige.vercel.app/
 
 ## 🔗 Backend API
 
-https://blogverse-5up2.onrender.com
+https://blogverse-beige.vercel.app
 
 ## 🛠️ Tech Stack
 
