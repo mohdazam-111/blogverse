@@ -12,7 +12,7 @@ function SignUp() {
     e.preventDefault();
 
     try {
-      const response = await fetch("http://localhost:4001/user/signup", {
+      const response = await fetch("https://blogverse-5up2.onrender.com/user/signup", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

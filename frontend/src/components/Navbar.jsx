@@ -8,7 +8,7 @@ function Navbar() {
 
   const handleLogout = async () => {
     try {
-      const response = await fetch("http://localhost:4001/user/logout", {
+      const response = await fetch("https://blogverse-5up2.onrender.com/user/logout", {
         method: "POST",
         credentials: "include",
       });
